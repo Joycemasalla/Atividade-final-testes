@@ -1,0 +1,11 @@
+Passos:
+
+Visitar a página inicial: Acesse https://cadastrocars.vercel.app/.
+Navegar para o cadastro: Clique no link "Cadastrar".
+Selecionar a marca: Escolha "Honda" no dropdown de marcas.
+Preencher modelo: Digite "Civic" no campo de modelo.
+Preencher ano: Digite "2021" no campo de ano.
+Preencher quilometragem: Digite "14200" no campo de quilometragem.
+Preencher preço: Digite "10000" no campo de preço.
+Confirmar cadastro: Clique no botão para registrar o carro.
+Resultado Esperado: O carro deve ser registrado e aparecer na lista de carros cadastrados.
